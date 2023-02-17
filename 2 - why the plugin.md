@@ -1,7 +1,7 @@
 # Why?
 
-- The rule:
-  - Intercept and log all input and output messages
+- The need:
+  - Intercept and log all inputs and outputs messages
   
 - Reasons:
   - We are Humans and we will forget to add the logs
